@@ -1,0 +1,19 @@
+/* home-style.css */
+
+h1 {
+    color: goldenrod;
+    font: 24px;
+    background-color: aliceblue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+li {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: darkolivegreen;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: aliceblue;
+}
